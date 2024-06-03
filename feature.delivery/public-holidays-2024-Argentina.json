@@ -1,0 +1,115 @@
+{
+  "product": "Argentina Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Carnival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-02-26T12:00:00",
+      "endDate": "2024-02-27T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "purple",
+      "description": "Celebration before Lent begins"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-19T12:00:00",
+      "endDate": "2024-04-19T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "deepPurple",
+      "description": "Observance of the crucifixion of Jesus"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "teal",
+      "description": "Celebration of workers' rights"
+    },
+    {
+      "title": "Argentine National Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-25T12:00:00",
+      "endDate": "2024-05-25T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "light",
+      "description": "Commemoration of the May Revolution"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-07-09T12:00:00",
+      "endDate": "2024-07-09T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "yellow",
+      "description": "Celebration of Argentina's independence"
+    },
+    {
+      "title": "National Flag Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-20T12:00:00",
+      "endDate": "2024-06-20T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "green",
+      "description": "Commemoration of the death of Manuel Belgrano"
+    },
+    {
+      "title": "Day of Respect for Cultural Diversity",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-10-12T12:00:00",
+      "endDate": "2024-10-12T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "orange",
+      "description": "Celebration of cultural diversity in Argentina"
+    },
+    {
+      "title": "National Sovereignty Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-11-20T12:00:00",
+      "endDate": "2024-11-20T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "red",
+      "description": "Commemoration of the Battle of Vuelta de Obligado"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2024",
+      "style": "pink",
+      "description": "Celebration of the birth of Jesus"
+    }
+  ]
+}
